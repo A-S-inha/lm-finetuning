@@ -11,6 +11,6 @@ Notebooks:
 - `LM_Finetuning.ipynb` — LoRA fine-tuning and evaluation
 
 Notes:
-This project explores LLM fine-tuning and evaluation in a constrained
+This project explores LM fine-tuning and evaluation in a constrained
 experimental setting.
 

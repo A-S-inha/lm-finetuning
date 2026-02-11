@@ -1,4 +1,4 @@
-# LLM Fine-Tuning for API Calling Code
+# LM Fine-Tuning for API Calling Code
 
 Experimental project evaluating baseline versus LoRA fine-tuning for API calling
 and tool invocation tasks using the APIBench dataset.
